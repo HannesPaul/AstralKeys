@@ -104,4 +104,15 @@ L["Black Rook Hold"] = 'Die Rabenwehr'
 L["The Everbloom"] = 'Der Immergrüne Flor'
 L["Throne of the Tides"] = 'Thron der Gezeiten'
 
+L["The Rookery"] = "Die Brutstätte"
+L["The Stonevault"] = "Das Steingewölbe"
+L["City of Threads"] = "Stadt der Fäden"
+L["Ara-Kara, City of Echoes"] = "Ara-Kara, Stadt der Echoes"
+L["Darkflame Cleft"] = "Dunkelflammenspalt"
+L["The Dawnbreaker"] = "Die Morgenbringer"
+L["Cinderbrew Meadery"] = " Metbrauerei Glutbräu"
+L["Grim Batol"] = "Grim Batol"
+L["Siege of Boralus"] = "Die Belagerung von Boralus"
+L["Mists of Tirna Scithe"] = "Nebel von Tirna Scithe"
+L["The Necrotic Wake"] = "Die Nekrotische Schneise"
 
